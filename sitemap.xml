@@ -1,23 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://ruppy.com.br/blog/404.html</loc>
+        <loc>http://ruppy.com.br/blog/2014/03/21/intro/</loc>
+        <lastmod>2014-03-21T16:55:35-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ruppy.com.br/404.html</loc>
         <lastmod>2014-03-21T10:45:37-03:00</lastmod>
     </url>
     <url>
-        <loc>http://ruppy.com.br/blog/blog/archives/</loc>
-        <lastmod>2014-03-21T10:45:37-03:00</lastmod>
+        <loc>http://ruppy.com.br/blog/archives/</loc>
+        <lastmod>2014-03-21T16:55:35-03:00</lastmod>
     </url>
     <url>
-        <loc>http://ruppy.com.br/blog/blog/</loc>
-        <lastmod>2014-03-21T10:45:37-03:00</lastmod>
+        <loc>http://ruppy.com.br/blog/</loc>
+        <lastmod>2014-03-21T16:55:35-03:00</lastmod>
     </url>
     <url>
-        <loc>http://ruppy.com.br/blog/posts/</loc>
-        <lastmod>2014-03-21T10:45:37-03:00</lastmod>
+        <loc>http://ruppy.com.br/posts/</loc>
+        <lastmod>2014-03-21T16:55:35-03:00</lastmod>
     </url>
     <url>
-        <loc>http://ruppy.com.br/blog/robots.txt</loc>
+        <loc>http://ruppy.com.br/robots.txt</loc>
         <lastmod>2014-03-20T22:33:28-03:00</lastmod>
     </url>
 </urlset>
