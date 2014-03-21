@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Test | Ruppy Art 'n' Dev Blog]]></title>
+  <link href="http://ruppy.com.br/blog/blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://ruppy.com.br/blog/"/>
+  <updated>2014-03-21T12:37:38-03:00</updated>
+  <id>http://ruppy.com.br/blog/</id>
+  <author>
+    <name><![CDATA[Ruppy Studio]]></name>
+    <email><![CDATA[hi@ruppy.com.br]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Test post2]]></title>
+    <link href="http://ruppy.com.br/blog/blog/2014/03/21/test-post2/"/>
+    <updated>2014-03-21T10:03:55-03:00</updated>
+    <id>http://ruppy.com.br/blog/blog/2014/03/21/test-post2</id>
+    <content type="html"><![CDATA[<p>This is just a hello world to see in action.</p>
+
+<h1>Hello World</h1>
+
+<h2>Teste sub header</h2>
+
+<p>images</p>
+
+<p><img src="/images/background.jpg" alt="just a image" /></p>
+
+<p>Hello world is a test just to see that everything it is right.</p>
+]]></content>
+  </entry>
+  
+</feed>
