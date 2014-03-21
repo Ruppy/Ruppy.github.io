@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://ruppy.com.br/blog/sitemap.xml 
+Sitemap: http://ruppy.com.br/sitemap.xml 
