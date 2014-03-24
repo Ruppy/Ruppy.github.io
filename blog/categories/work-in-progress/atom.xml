@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Ruppy]]></title>
-  <link href="http://ruppy.com.br/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Work in Progress | Ruppy]]></title>
+  <link href="http://ruppy.com.br/blog/categories/work-in-progress/atom.xml" rel="self"/>
   <link href="http://ruppy.com.br/"/>
   <updated>2014-03-24T16:20:01-03:00</updated>
   <id>http://ruppy.com.br/</id>
@@ -41,7 +41,7 @@ to abduct your cows all the time, but when they realize that without help they
 will not succeed, it’s time to call out the Zombies. So don’t mind if, in the
 middle of combat, one Taxi-Ship shows up bringing a Zombie. Just shoot to kill!</p>
 
-  <p><img src="http://ruppy.com.br/assets/posts/sketch-ship-taxi-zombie.jpg" alt="Sketchs: Ship, Taxi and Zombies" /></p>
+  <p><img src="/assets/posts/sketch-ship-taxi-zombie.jpg" alt="Sketchs: Ship, Taxi and Zombies" /></p>
 
   <h3 id="platforms">Platforms</h3>
 
@@ -80,7 +80,7 @@ roubar todas sozinhos, eles pedem ajuda aos Zumbis. Então não repare se no mei
 do tiroteiro, aparecer uma nave em formato de táxi trazendo um Zumbi.
 Isso vai ser normal!</p>
 
-  <p><img src="http://ruppy.com.br/assets/posts/sketch-ship-taxi-zombie.jpg" alt="Sketchs: Ship, Taxi and Zombies" /></p>
+  <p><img src="/assets/posts/sketch-ship-taxi-zombie.jpg" alt="Sketchs: Ship, Taxi and Zombies" /></p>
 
   <h3 id="plataformas">Plataformas</h3>
 
@@ -98,76 +98,6 @@ informação sobre o jogo e um concept-art animal logo de cara. Dá uma olhada l
   <p>Bom, por hoje é só! Obrigado por ler, fique ligado pra mais sketchs e
 informações e qualquer comentário… comente!</p>
 
-</div>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Intro]]></title>
-    <link href="http://ruppy.com.br/blog/2014/03/21/intro/"/>
-    <updated>2014-03-21T15:21:47-03:00</updated>
-    <id>http://ruppy.com.br/blog/2014/03/21/intro</id>
-    <content type="html"><![CDATA[<p><a href="#en" class="english-button">You can read in English</a>
-/
-<a href="#pt" class="portuguese-button">Você pode preferir ler em Português</a></p>
-
-<div class="english">
-  <p>Hi everyone!</p>
-
-  <p>Today is a very happy day. I am glad to start showing what we are developing
-since two months ago.</p>
-
-  <h3 id="first-of-all-what-is-ruppy">First of all, what is Ruppy?</h3>
-
-  <p>Ruppy is me (Leo) and Glaucia. It’s the union of a dev with an artist, who are
-entering on this game dev world. We have this idea since 2012, but now we have
-the oportunity to make it right, spend more time, make prototypes, open a
-crowdfunding campaign on Indiegogo, raise funds and release our first game.</p>
-
-  <h3 id="so-new-games-are-coming">So, new games are coming?</h3>
-
-  <p>Yes! We’ll release the game that started the idea of ​​opening Ruppy. It is called
-Toledo Going Nuts. I will talk about it on next post, but here it is an image
-of the old concept art. Well, it is soo much different now, I can’t wait to show
-you.</p>
-
-  <p><img src="http://ruppy.com.br/assets/posts/toledo-old-concept.jpg" alt="Toledo old concept" /></p>
-
-  <h3 id="what-to-expect-about-this-blog">What to expect about this blog?</h3>
-
-  <p>We are going to post our adventures on this new world, what is working, what is
-not, sketches, draws, concepts and a lot of work in progress. And we are going
-to ask your opinions A LOT. Please give us your feedback!</p>
-</div>
-
-<div class="portuguese">
-  <p>Olá pessoal,</p>
-
-  <p>Hoje é um dia muito feliz. Hoje vou começar a mostrar o que estamos fazendo há
-dois meses.</p>
-
-  <h3 id="primeiro-de-tudo-o-que--a-ruppy">Primeiro de tudo, O que é a Ruppy?</h3>
-
-  <p>A Ruppy é a Glaucia e eu (Leo). É a união de uma artista com um programador, que
-estão entrando nesse mundo de jogos. Nós começamos essa idéia há mais ou menos
-dois anos, mas agora surgiu uma oportunidade de fazer isso direito, de dedicar
-mais tempo, de prototipar, abrir uma campanha no Indiegogo, arrecadar fundos e
-lançar nosso primeiro jogo.</p>
-
-  <h3 id="oba-ento-vem-jogo-novo-por-a">Oba, então vem jogo novo por aí?</h3>
-
-  <p>Sim! Nós vamos lançar o jogo que começou a idéia de abrir a Ruppy. Ele chama
-Toledo Going Nuts. Vou falar dele melhor no próximo post, mas vou deixar uma
-imagem de como imaginávamos ele há dois anos. Um dica, hoje está bem diferente
-disso!</p>
-
-  <p><img src="http://ruppy.com.br/assets/posts/toledo-old-concept.jpg" alt="Toledo old concept" /></p>
-
-  <h3 id="o-que-esperar-aqui-do-blog">O que esperar aqui do blog?</h3>
-
-  <p>Nós vamos postar nossas aventuras nesse mundo novo, o que deu certo, o que deu
-errado, sketches, desenhos e muito trabalho em desenvolvimento. E vamos pedir
-muito a opinião de vocês. Nos falem o que estão achando, queremos muito ouvir!</p>
 </div>
 ]]></content>
   </entry>
