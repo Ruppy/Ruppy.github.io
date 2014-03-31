@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Sketch | Ruppy]]></title>
+  <link href="http://ruppy.com.br/blog/categories/sketch/atom.xml" rel="self"/>
+  <link href="http://ruppy.com.br/"/>
+  <updated>2014-03-31T17:08:28-03:00</updated>
+  <id>http://ruppy.com.br/</id>
+  <author>
+    <name><![CDATA[Ruppy Studio]]></name>
+    <email><![CDATA[hi@ruppy.com.br]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Toledo comes to life]]></title>
+    <link href="http://ruppy.com.br/blog/2014/03/31/toledo-comes-to-life/"/>
+    <updated>2014-03-31T16:59:58-03:00</updated>
+    <id>http://ruppy.com.br/blog/2014/03/31/toledo-comes-to-life</id>
+    <content type="html"><![CDATA[<p><a href="#en" class="english-button">You can read in English</a>
+/
+<a href="#pt" class="portuguese-button">Você pode preferir ler em Português</a></p>
+
+<div class="english">
+  <p>Check it out the final sketch of Toledo! Did you like it?
+  <img src="/assets/posts/toledo-final-sketch.jpg" alt="Final sketch of Toledo" /></p>
+</div>
+
+<div class="portuguese">
+  <p>O Sketch final do Toledo acabou de sair do forno! O que você achou?
+  <img src="/assets/posts/toledo-final-sketch.jpg" alt="Sketch final do Toledo" /></p>
+</div>
+]]></content>
+  </entry>
+  
+</feed>
