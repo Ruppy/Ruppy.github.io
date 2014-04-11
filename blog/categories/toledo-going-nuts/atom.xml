@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Toledo Going Nuts | Ruppy]]></title>
   <link href="http://ruppy.com.br/blog/categories/toledo-going-nuts/atom.xml" rel="self"/>
   <link href="http://ruppy.com.br/"/>
-  <updated>2014-03-31T17:08:28-03:00</updated>
+  <updated>2014-04-11T16:23:37-03:00</updated>
   <id>http://ruppy.com.br/</id>
   <author>
     <name><![CDATA[Ruppy Studio]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Early screenshots]]></title>
+    <link href="http://ruppy.com.br/blog/2014/04/11/early-screenshots/"/>
+    <updated>2014-04-11T16:10:35-03:00</updated>
+    <id>http://ruppy.com.br/blog/2014/04/11/early-screenshots</id>
+    <content type="html"><![CDATA[<p><a href="#en" class="english-button">You can read in English</a>
+/
+<a href="#pt" class="portuguese-button">Você pode preferir ler em Português</a></p>
+
+<div class="english">
+  <p>Hi everyone!</p>
+
+  <p>We are posting some early development screenshots. We decided to change the
+  camera type from perspective to ortographic. What do you think?</p>
+
+  <p>Please remember that these images contains a lot of stub elements and they are
+  not final yet.</p>
+
+  <p><img src="/assets/posts/touch-to-play-ss.jpg" alt="Touch to play" /></p>
+
+  <p><img src="/assets/posts/gameplay-ss.jpg" alt="Gameplay" /></p>
+</div>
+
+<div class="portuguese">
+  <p>Fala galera!</p>
+
+  <p>Estamos postando algumas screenshots da versão de desenvolvimento. Nós
+  decidimos mudar a câmera principal de perspectiva para ortográfica. O que
+  acharam?</p>
+
+  <p>Só lembrem que essas imagens têm muitos elementos que não são finais.</p>
+
+  <p><img src="/assets/posts/touch-to-play-ss.jpg" alt="Toque para jogar" /></p>
+
+  <p><img src="/assets/posts/gameplay-ss.jpg" alt="Gameplay" /></p>
+</div>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Toledo comes to life]]></title>
