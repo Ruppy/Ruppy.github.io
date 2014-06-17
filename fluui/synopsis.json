@@ -1,0 +1,33 @@
+[{
+  "id"   : "12319476387653295029",
+  "title" : "Manifestações Outubro 2013",
+
+  "content_unit": {
+    "address":  "http://noticias.terra.com.br/educacao/sp-nove-pessoas-foram-detidas-durante-protestos-a-favor-de-professores,5febc05a38591410VgnCLD2000000dc6eb0aRCRD.html",
+    "videos": [{
+      "external_id": "12319476387653295045",
+      "type": "youtube"
+    }],
+    "images": [{
+        "sizes": [{
+            "url": "https://s3.amazonaws.com/ubriki/images/02/0686fbd6b3475429193d7b964df554",
+            "dimension": {
+              "width": 130,
+              "height": 130
+            }
+          }, {
+            "url": "https://s3.amazonaws.com/ubriki/images/02/0686fbd6b3475429193d7b964df554",
+            "dimension": {
+              "width": 130,
+              "height": 130
+            }
+          }
+        ]
+      }
+    ],
+    "title":    "SP: nove pessoas são detidas durante protesto a favor de professores",
+    "language": "PT",
+    "abstract": "Na Avenida Duque de Caxias, foram depredadas uma agência do Itaú, duas do Santander e uma da Caixa Econômica Federal. Alguns alunos se concentraram, por volta das 17h30",
+    "date":     "2013-10-14T15:26:33.427-03:00"
+  }
+}]
